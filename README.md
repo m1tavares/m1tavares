@@ -1,5 +1,7 @@
 Me Tavares
 
-Studying: Ryerson
+Studied: Ryerson
 
 Worked: Symcor
+
+Currently: Clear Summit Group
