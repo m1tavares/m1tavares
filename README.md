@@ -1,7 +1,2 @@
-Me Tavares
+hello :)
 
-Studied: Ryerson
-
-Worked: Symcor
-
-Currently: Clear Summit Group
